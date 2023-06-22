@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.7.1)
+  - ObjectMapper (4.2.0)
+  - poddemofolder (1.1.2):
+    - Alamofire (~> 5.4)
+    - ObjectMapper (~> 4.2)
+    - SVProgressHUD
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - poddemofolder
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ObjectMapper
+    - poddemofolder
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: 0123a34370cb170936ae79a8df46cc62b2edeb88
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  poddemofolder: e8ed898e756bb2e56ab3387532e343f88e1c7b4f
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: d569050b1bcbf1324c798b513745d2e28e094208
+
+COCOAPODS: 1.12.1
